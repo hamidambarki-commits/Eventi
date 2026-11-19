@@ -1,20 +1,37 @@
 # Distributed Web Architecture
 
 ## Description
-Plateforme de gestion du recrutement basée sur une architecture microservices.
+Plateforme web de gestion des evenements.
 
 ## Backend - Microservices
+
 1. Gestion des utilisateurs
-2. Gestion des candidats
-3. Gestion des offres d'emploi
-4. Gestion des candidatures
-5. Gestion des recrutements
-6. Gestion des entreprises
+   - Inscription, connexion et roles.
+
+2. Gestion des evenements
+   - Creation et gestion des evenements.
+
+3. Gestion des commentaires
+   - Avis et reponses des utilisateurs.
+
+4. Gestion des sponsors
+   - Gestion des partenaires et sponsors.
+
+5. Gestion des reclamations
+   - Traitement des problemes signales.
+
+6. Gestion des offres
+   - Coupons, reductions et promotions.
 
 ## Frontend
-Application web cliente.
+Application web de gestion des evenements.
 
 ## Documentation
-- Presentation
-- Diagrams
+- Presentation : support de presentation.
+- Diagrams : diagrammes UML et architecture.
 
+## Architecture
+Architecture Web Distribuee basee sur les microservices.
+
+## Equipe
+A completer avec les noms des membres.
