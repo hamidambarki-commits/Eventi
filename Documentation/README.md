@@ -73,7 +73,7 @@ E-venti utilise une architecture basée sur des microservices indépendants.
 | MS4 – Sponsors | Sponsors et sponsoring |
 | MS5 – Complaints | Réclamations et réponses |
 | MS6 – Offers | Offres et coupons |
-| MS7 – AI | Chatbot et recommandations |
+
 
 Chaque microservice possède sa propre base de données et communique avec les autres services à travers des API REST ou des événements asynchrones.
 
