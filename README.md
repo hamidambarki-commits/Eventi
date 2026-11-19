@@ -34,4 +34,9 @@ Application web de gestion des evenements.
 Architecture Web Distribuee basee sur les microservices.
 
 ## Equipe
-A completer avec les noms des membres.
+Omar Bdiri
+Mbarki Hamida
+Aouamri Amal
+Mehdi Belhaj Ahmed
+Chaima Ayari 
+syrine guizani
